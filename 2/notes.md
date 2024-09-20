@@ -43,3 +43,10 @@ Everything is based on money even though the american dream is supposed to allow
 
 3. The Ideology as a Deception
 The american dream leads people to beleive that their own life choices are what brought them to where they are. It does not humor the notion of focusing on the nationally macroscopic processes like poitical constraints or the economy for being the reason behind social ordering. 
+
+### Thought Questions
+1. According to Hochschild, what are the key tenets of success in the American dream, and in what ways might the American definition of success be considered narrow?
+
+2. In what sense is the American dream a "fantasy"? How is this fantasy reinforced by American life and culture?
+
+3. What does Hochschild mean by "atomistic individualism" and why does she consider it a flaw?
