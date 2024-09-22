@@ -36,4 +36,24 @@ To avoid conglomeration of powers to a select few, the Founding Fathers made the
 The basic idea is that each branch can police other branches to make sure they're not going too crazy i.e. for something to actually happen, one branch has to propose, another approve, another initiate, another reapprove, etc. 
 
 ## What the Framers Coudnl't Know
-The FFs didn't have all the knowledge that we do today and they could not have imagined how the US would be like today, so their attempt at the constitution was the best for its time, but meager by today's standards. The FFs had some limits on what they could think up and compromise on. Compromises had to be made in order to achieve the constitution. 
+The FFs didn't have all the knowledge that we do today and they could not have imagined how the US would be like today, so their attempt at the constitution was the best for its time, but meager by today's standards. The FFs had some limits on what they could think up and compromise on. Compromises had to be made in order to achieve the constitution. Even after the ratification of the constitution, it still had some bad elements. 
+
+##### Amendments
+The 13-15th amendments abolished slavery and the 19th amendment gave women the right to vote. 
+
+## Federalism
+Federalism is a political system in which power is distributed between the states, national, regional, and provincial levels. In some areas, the national power is supreme, while in others, the state, or regional power is supreme. In federalism, each level of government has its own power that is independent but other parts of its power that is dependent on the other levels. 
+
+An alternative to federalism is the unitary system which basically has the seat of power be the national government leavning states and local govs with pretty much no power most of the time. In a confederal system, local units hold all the power, the complete opposite of the unitary system. 
+
+The national gov has the power to declare war, aquire territory, and other things. **Dual federalism** is the theoretical representation of the formal distribution of powers explained in the constitution; every level of government is independent of each other level and is supreme in its layer of influence. In practice, **cooperative fedralism** shows that the levels of government mingle in each others areas of influence and have some piwer in them. Basically, the idea of CF is that the different levels of government work together on a single issue (like education). The national gov started out weaker when the constitution was first put in place but has become increasingly powerful over the last 200 years at the expense of the states.
+
+Land was a commodity in earlier America, but as it became more limited, money became the primary commodity that the national gov would distribute (endowments). The national/federal gov can influence state behavior and policy in three ways:
+- Categorical Grants:
+    - The federal gov creates a set of criteria that, if people fit, get money which is also federally regulated ("strings attatched"). Before an individual can get this aid, however, the state must first comply with the program. **Project grants** are for projects that need money like building schools or highways. **Formula categorical grants** are given based on how many and the type of people in istrict fit into a category. 
+- Block grants:
+    - These are a more generalized form of funding which many projects might share. This allows states to be more flexible with the way that they spend their moeny. This type of funding however gives "credit" to the statespeople who used the money in their clever way, which could lead senators to lose electoral votes. 80% of federal funding remains as categorical grants
+- Revenue Sharing:
+    - Similar to block grants in that the national gov gives large lumps of money to states to use at their own discretion. This money is distributed evenly among the states, regardless of need or size. 
+- Unfunded Mandates:
+    - These are policy enforcments without any external funding given to pusue the mandate given by the national gov
