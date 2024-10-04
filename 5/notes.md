@@ -36,3 +36,31 @@ State Senate: Scott Weiner
 California Governer: Gavin Newsom (Hi, Hayes)
 
 SF Mayor: London Breed
+
+## Lesson: Types of Elections in California
+#### Primary and General Elections
+Propositions are decided in Primary electrions. 
+
+###### Primary Elections
+Primary elections are also where we choose our governer (2 years off president's election). People, groups, or corporations can organize the primary elections. These elections are also the ones that have less vote turnout. Held in June or earlier months
+
+###### General Elections
+Follow primary elections and are held in November. These have higher turnouts than primary elections. Propositions are also voted on in these elections.
+
+###### Elections in California - Open Primary for Voter Nominated Offices
+**Voter-nominated offices** include state legislative, U.S. congressional, and state constitutional offices which are all included on the same ballot. The two candidates who recieve the most votes in the primary move onto the general election. I don't know who these candidates are or what they're running for. The candidates cannot be running for U.S. President, county central committees, or local offices. Oh, ok, so these candidates are running for those offices mentioned at the beginning of this elections section. 
+
+###### Party-Nominated/Partisan Offices
+Political parties can also nominate candidates who will represent that party for PARTY-NOMINATED/PARTISAN offices and NOT voter-nominated offices. The top vote-getter for each party moves onto the general election - doesn't that contradict what was said in the previous section about only two candidates moving onto the generals? And what's more is that the voter can only vote for canddiates in the party they showed as their preference? - Is each party sending multiple candidates to the generals? Maybe it's across different offices. Only two candidates go to the generals for EACH office; and each poitical party might have several candidates go across DIFFERENT offices. 
+
+###### Voter-Nominated Offices
+Political parties cannot formally nominate candidates for voter-nominated offices at the primary election. Candidates can also select their party preference which will be shown to the public even if they don't represent that party. The two candidates with the most move onto the generals no matter their party preference (2 candidates moving on can have a preference for the same party). 
+
+###### Nonpartisan Offices
+For nonpartisan offices, no candidates at the primary are official nominees for specific parties. Those candidates cannot state what preference or lack thereof they have towards the political parties. An example of this would be judiciary positions; those are nonpartisan. 
+
+#### Special Elections
+Non-regularly scheduled elections are called special elections. These elections can deal with propositions, candidates, or both. The californian people can hold recall elections where they can just kick people out of their respective offices even if there is no proof of wrong doing; simply because they might not like them anymore. We've only had 2 recall elections; 1 in 2003 where the guy in office was replaced by Arnold Schwarzenegger for the rest of the term and one in 2019 for Newman Marcus; we didn't kick him out though. Special elections are also held whenever someone moves out of office for whatever reason; death, resignation, acceptance of another political position. Schwarzenegger held a special election in 2005 that was only for propositions; everyone said no. 
+
+#### Special Elections
+Propositions can appear in any of the elections mentioned in this lesson and they relate to either statewide or local matters. The propositions can vary in what they accomplish, from state wide laws to revisions on state legislature deeds. If propositions have *numbers* they are state wide even if they're mixed with letters like prop 1a; if propositions have letters then they are local props and you'll have to see whether they affect your county or city. Some issues can regional such as matters that are affiliated with BART. 
