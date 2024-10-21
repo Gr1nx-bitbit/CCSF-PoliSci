@@ -1,0 +1,2 @@
+## 10 Things Every Voter Should Know About Money in Politics
+Interest groups and others like to put their money on safe bets (people who are in office or where there is not really any competition). Office holders will get most of their funding from the industry / topic they oversee. 
